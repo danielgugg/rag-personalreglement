@@ -1,0 +1,8 @@
+/.venv
+/.vscode
+/chroma.log
+/chroma_data
+/import_2.py
+/Pipfile
+/Pipfile.lock
+/__pycache__

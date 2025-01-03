@@ -1,4 +1,4 @@
-SOBACO
+Incore Technology
 
 Personalreglement
 
@@ -10,7 +10,7 @@ VERSION 51
 
 1.1 Geltungsbereich
 
-Dieses Reglement regelt das Zusammenleben zwischen SOBACO und den Mitarbeitenden. Es ist fürJedermann
+Dieses Reglement regelt das Zusammenleben zwischen IN und den Mitarbeitenden. Es ist fürJedermann
 verbindlich und integrierter Bestandteil des Arbeitsvertrages. Wurde im persönlichen Anstellungsvertrag etwas
 abweichend von diesem Geschäftsreglement vereinbart, dann gilt die im Anstellungsvertrag festgehaltene Regelung
 als übergeordnet.
@@ -19,7 +19,7 @@ als übergeordnet.
 
 Die Mitarbeitenden haben die vertraglich vereinbarte Arbeit in eigener Person zu leisten, sofern nichts anderes
 vereinbart ist oder sich aus den Umständen ergibt. Sie haben die ihnen übertragenen Arbeiten sorgfältig auszuführen
-und die berechtigten Interessen von SOBACO in guten Treuen zu wahren.
+und die berechtigten Interessen von Incore Technology in guten Treuen zu wahren.
 
 1.3 Schweigepflicht
 
@@ -92,7 +92,7 @@ erlauben. Entsprechende Anträge sind vom Vorgesetzen und der GL zu bewilligen.
 
 2.4 HomeOffice
 
-SOBACO ermöglicht ein externes Arbeiten (HomeOffice) im Rahmen der aktuellen Aufgaben, sofern sie sich dafür
+Incore Technology ermöglicht ein externes Arbeiten (HomeOffice) im Rahmen der aktuellen Aufgaben, sofern sie sich dafür
 eignen und der Mitarbeitende genügend Erfahrung ausweist. Der Mitarbeitende kann einen entsprechenden Antrag
 stellen, welcher auch den Standort und den Zeitraum festlegt. Der Antrag ist dem/der Vorgesetzten einzureichen und
 benötigt die Bewilligung der GL. Wiederkehrendes externes Arbeiten kann bei einem 100 Prozent Pensum bis max. 3
@@ -144,14 +144,14 @@ Gewinnbeteiligung.
 2.8 Zeugnis
 
 Die Mitarbeitenden können jederzeit eine Arbeitsbestätigung oder ein Arbeitszeugnis verlangen. Am Ende eines
-Anstellungsverhältnisses ist SOBACO verpflichtet in einem angemessenen Zeitraum ein Arbeitszeugnis für den
+Anstellungsverhältnisses ist Incore Technology verpflichtet in einem angemessenen Zeitraum ein Arbeitszeugnis für den
 Mitarbeitenden zu erstellen.
 
 3. Arbeitszeit
 
 3.1 Gleitzeit
 
-SOBACO erlaubt seinen Mitarbeitenden sich die Arbeitszeit selbst einzuteilen. Die Arbeitszeit beträgt 40 Stunden pro
+Incore Technology erlaubt seinen Mitarbeitenden sich die Arbeitszeit selbst einzuteilen. Die Arbeitszeit beträgt 40 Stunden pro
 Woche. Gemäss Art. 15, ArG müssen folgende Pausen eingehalten werden:
 
 = eine Viertelstunde bei einer täglichen Arbeitszeit von mehr als fünfeinhalb Stunden;
@@ -200,7 +200,7 @@ keine Korrektur, dann sind die rapportierten Stunden definitiv.
 
 4.1 Pikettdienst
 
-Pikettdienst bedeutet, dass sich Mitarbeitende ausserhalb der üblichen Geschäftszeiten der SOBACO von Montag-
+Pikettdienst bedeutet, dass sich Mitarbeitende ausserhalb der üblichen Geschäftszeiten der Incore Technology von Montag-
 Freitag von 07:30 -18:00 Uhr für einen Arbeitseinsatz bereithalten (Pikettbereitschaft) und im Bedarfsfall die
 erforderliche Arbeit unverzüglich aufnehmen (Piketteinsatz). Folgende Pikettbegriffe wurden weiter definiert:
 
@@ -424,7 +424,7 @@ Falls ein Mitarbeitender in den Ferien erkrankt oder verunfallt, ist bei Wiedera
 Nachbezugsrecht der Ferien.
 
 Bei berechtigten Zweifeln über ein Arztzeugnis oder bei starker Anhäufung von Krankheitsabsenzen behält sich die
-GLvor, den Mitarbeitenden zu einem von SOBACO bestimmten Vertrauensarzt zu schicken. Die Kosten dieser
+GLvor, den Mitarbeitenden zu einem von Incore Technology bestimmten Vertrauensarzt zu schicken. Die Kosten dieser
 Untersuchung werden vom Arbeitgeber übernommen.
 
 6. Salär / Versicherungen / Vergünstigungen
@@ -452,7 +452,7 @@ Die Pensionskasse wird mit dem separaten Vorsorgereglement der AXA Winterthur im
 6.4 Betriebs- und Nichtbetriebsunfall Versicherung
 
 Der Mitarbeitende istsowohl gegen Betriebs- als auch gegen Nichtbetriebsunfälle versichert. Die Prämie trägt der
-Arbeitgeber. Zusätzlich hat SOBACO eine Unfallzusatzversicherung (UVGZ) abgeschlossen. Ein Reglement der
+Arbeitgeber. Zusätzlich hat Incore Technology eine Unfallzusatzversicherung (UVGZ) abgeschlossen. Ein Reglement der
 aktuellen Unfallversicherung kann bei der verantwortlichen Person für das Personalwesen verlangt werden.
 
 6.5 Versicherung bei Krankheit
@@ -507,7 +507,7 @@ Diese Prämien sind allerdings steuerpflichtig. Sie unterliegen der AHV/ALV und 
 
 6.11 Weiterbildung
 
-SOBACO unterstützt berufsbegleitende Weiterbildungen im Rahmen der aktuellen und künftigen Aufgaben, sofern
+Incore Technology unterstützt berufsbegleitende Weiterbildungen im Rahmen der aktuellen und künftigen Aufgaben, sofern
 die gewünschten Kurs- /Schulbesuche von dem entsprechenden Vorgesetzten und der GL bewilligt sind.
 
 Die Kostenbeteiligung und allfällige Verpflichtungen werden individuell festgelegt.
@@ -526,8 +526,8 @@ entscheidet die GL.
 
 7.1 Eingangstüre
 
-Die Eingangstüren zu den Büroräumlichkeiten der SOBACO müssen aus Datenschutzmassnahmen immer
-geschlossen sein. Die Personen, welche Zutritt zu den Büroräumlichkeiten der SOBACO erhalten, haben einen
+Die Eingangstüren zu den Büroräumlichkeiten der Incore Technology müssen aus Datenschutzmassnahmen immer
+geschlossen sein. Die Personen, welche Zutritt zu den Büroräumlichkeiten der Incore Technology erhalten, haben einen
 Schlüssel mit integriertem Badge. Der Badgeleser ist rechts an der Wand neben der Eingangstür angebracht.
 
 7.2 Küche & Cafeteria
@@ -538,7 +538,7 @@ räumen. Bei verbrauchten Waren wie Kaffee, Zucker, Milch oder Tee, ist die Admi
 
 73 Clean Desk Policy
 
-Damit keine kritischen Daten unbeabsichtigt von Dritten eingesehen werden können gilt bei SOBACO eine strikte
+Damit keine kritischen Daten unbeabsichtigt von Dritten eingesehen werden können gilt bei Incore Technology eine strikte
 Clean Desk Policy. Kritische Informationen dürfen nicht unbeaufsichtigt auf dem Arbeitsplatz liegengelassen
 werden. Diese müssen, spätestens wenn der Arbeitsplatz verlassen wird eingeschlossen werden. Beim Verlassen des
 Büros ist die Workstation (PC, Thinclient) zu sperren. Bei den Mitarbeitern mit einem Modell, welches auf der Seite
@@ -564,21 +564,21 @@ Arbeitsprodukten und Unterlagen für private und andere Zwecke ist untersagt.
 7.5 Telefonie
 
 Jedem Mitarbeiter steht ein Festnetzanschluss mit einer Direktwahl-Nummer zur Verfügung. Einzelne Mitarbeiter
-verfügen zudem über ein geschäftliches Mobiltelefon, welches SOBACO bezahlt. Private Telefonkosten, welche über
+verfügen zudem über ein geschäftliches Mobiltelefon, welches Incore Technology bezahlt. Private Telefonkosten, welche über
 das entsprechende Abonnement hinausgehen, werden dem Mitarbeiter nach Rucksprache belastet. Private
 Gespräche während der Arbeitszeit sind auf ein Minimum zu beschränken.
 
 7.6 Internet sowie E-Mail
 
 Der Zugang zum Internet dient dem Austausch von elektronischen Mails und der Informationsbeschaffung im
-Zusammenhang mit der Arbeit bei SOBACO. Die private Nutzung des Internets oder E-Mails während der Arbeitszeit
+Zusammenhang mit der Arbeit bei Incore Technology. Die private Nutzung des Internets oder E-Mails während der Arbeitszeit
 haben sich aufein Minimum zu beschränken. Weder die Arbeitsleistung, noch die technische Infrastruktur dürfen
 durch die private Nutzung des Internets beeinträchtigt werden.
 
-Es ist untersagt, für SOBACO schädliche Äusserungen oder abschätzige Bemerkungen über die Konkurrenz in News
+Es ist untersagt, für Incore Technology schädliche Äusserungen oder abschätzige Bemerkungen über die Konkurrenz in News
 Foren abzulegen. Generell verweisen wir hier ebenfalls auf das Geschäftsgeheimnis und den Anstellungsvertrag.
 
-Ebenfalls ist es untersagt, nicht betriebsnotwendige Software vom Internet herunterzuladen und auf dem SOBACO-
+Ebenfalls ist es untersagt, nicht betriebsnotwendige Software vom Internet herunterzuladen und auf dem Incore Technology-
 PC zu installieren. Ausnahmen von dieser Regel sind mit dem Vorgesetzten abzusprechen.
 
 7.7 Unterhaltungselektronik
@@ -588,7 +588,7 @@ Radiohören über Kopfhörer ist gestattet. Dies gilt auch für im Computer inte
 
 7.8 Rauchen, Alkohol, Drogen
 
-Die persönliche Lagerung von Alkohol und Drogen und deren Genuss in den Räumen von SOBACO ist nicht gestattet.
+Die persönliche Lagerung von Alkohol und Drogen und deren Genuss in den Räumen von Incore Technology ist nicht gestattet.
 Das Rauchen ist in allen Räumen verboten, inklusive Cafeteria und Gänge.
 
 7.9 Tiere
@@ -599,6 +599,6 @@ Das Mitbringen von Haustieren an den Arbeitsplatz ist nicht gestattet.
 
 Das vorliegende Reglement tritt per 01.02.2024 in Kraft.
 
-SOBACO Solutions AG
+Incore Technology Solutions AG
 
 Die Geschäftsleitung

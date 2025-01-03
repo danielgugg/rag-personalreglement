@@ -1,27 +1,31 @@
 import ollama, chromadb, time
-from utilities import get_config
+from openai.embeddings_utils import get_embedding
+import utilities as util
 
-collection_name = "persreg"
+file_name = "Personalreglement.txt"
+collection_name = "Personalreglement"
 
 chroma = chromadb.HttpClient(host="localhost", port=8000)
 if any(collection == collection_name for collection in chroma.list_collections()):
     print("Deleting collection")
     chroma.delete_collection(collection_name)
-collection = chroma.get_or_create_collection(name="persreg", metadata={"hnsw:space": "cosine"})
+collection = chroma.get_or_create_collection(name=collection_name, metadata={"hnsw:space": "cosine"})
 
-embed_model = get_config()["embedmodel"]
+embed_model = util.get_config("ollama")["embedmodel"]
+
 start_time = time.perf_counter()
 
-with open("persreg.txt") as f:
-    text = f.read().decode("utf-8")
+with open(file_name, encoding='utf-8') as f:
+    text = f.read()
+    text = text.replace('\n', ' ')
 
-chunks = chunk_text_by_sentences(source_text=text, sentences_per_chunk=7, overlap=0)
+chunks = util.chunk_text_by_sentences(source_text=text, sentences_per_chunk=7, overlap=0, language="german")
 
 print(f"With {len(chunks)} chunks")
 
 for index, chunk in enumerate(chunks):
-    embed = ollama.embeddings(model=embed_model, prompt=chunk)['embedding']
+    embed = util.embed_text(chunk)
     print(".", end="", flush=True)
-    collection.add(["persreg"+str(index)], [embed], documents=[chunk], metadatas={"source" : "Personalreglement"})
+    collection.add([collection_name+str(index)], embeddings=[embed], documents=[chunk], metadatas={"source" : collection_name})
 
 print("--- %s seconds ---" % (time.perf_counter() - start_time))

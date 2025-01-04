@@ -22,6 +22,6 @@ print(f"With {len(chunks)} chunks")
 for index, chunk in enumerate(chunks):
     embed = ollama.embeddings(model=embed_model, prompt=chunk)['embedding']
     print(".", end="", flush=True)
-    collection.add(["persreg"+str(index)], [embed], documents=[chunk], metadatas={"source" : "Personalreglement"})
+    collection.add(ids=["persreg"+str(index)], embeddings=[embed], documents=[chunk], metadatas={"source" : "Personalreglement"})
 
 print("--- %s seconds ---" % (time.perf_counter() - start_time))

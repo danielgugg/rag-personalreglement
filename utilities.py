@@ -1,13 +1,16 @@
 import configparser
 from typing import List
 from nltk.tokenize import sent_tokenize
+from openai import OpenAI
 import nltk
 #nltk.download('punkt_tab')
 
-def embed_text(text:str):
-    return get_embedding(text, engine="text-embedding-ada-002")
+client = OpenAI()
+
+def get_embedding(text:str, model:str="text-embedding-3-small"):
+    return client.embeddings.create(input = [text], model=model).data[0].embedding
     
-def get_config(section:str):
+def get_config(section:str="main"):
     config = configparser.ConfigParser()
     config.read('config.ini')
     return dict(config.items(section))

@@ -1,0 +1,436 @@
+Personalreglement
+Autor/in: Elvira Maroñas
+Dokument: Personalreglement_20241028
+Version: V5.2
+Ort: Schlieren
+Datum: 28.10.2024
+
+1. Allgemeine Bestimmungen
+1.1 Geltungsbereich
+Dieses Reglement regelt das Zusammenleben zwischen Incore Technology AG und den Mitarbeitenden. Es ist
+für Jedermann verbindlich und integrierter Bestandteil des Arbeitsvertrages. Wurde im persönlichen
+Anstellungsvertrag etwas abweichend von diesem Geschäftsreglement vereinbart, dann gilt die im
+Anstellungsvertrag festgehaltene Regelung als übergeordnet.
+1.2 Sorgfalts- und Treuepflicht
+Die Mitarbeitenden haben die vertraglich vereinbarte Arbeit in eigener Person zu leisten, sofern nichts anderes
+vereinbart ist oder sich aus den Umständen ergibt. Sie haben die ihnen übertragenen Arbeiten sorgfältig
+auszuführen und die berechtigten Interessen von Incore Technology AG in guten Treuen zu wahren.
+1.3 Schweigepflicht
+Die Mitarbeitenden sind verpflichtet, über alle im Rahmen der Anstellung und insbesondere durch unsere
+Bankkunden zur Kenntnis genommenen Angelegenheiten gegenüber Drittpersonen oder Firmen während der
+Dauer und nach Beendigung dieses Vertrags Stillschweigen zu bewahren. Sie sind bereit, eventuelle
+diesbezügliche Verpflichtungen gegenüber Kunden zu unterschreiben.
+Zur Sicherstellung unserer Konkurrenzfähigkeit dürfen Dokumentationen oder Programmdokumentationen, ohne
+Zustimmung der GL nicht abgegeben werden. Strategische Überlegungen sind ohne Zustimmung der GL weder
+abzugeben noch bekannt zu geben.
+Bei einer Verletzung dieser Regelungen bleiben eine Strafanzeige sowie eine fristlose Kündigung vorbehalten.
+1.4 Erfindungen
+Die Rechte an Erfindungen und Designs, welche der Arbeitnehmer bei Ausübung seiner dienstlichen Tätigkeit
+und in Erfüllung seiner vertraglichen Pflichten macht oder an deren Hervorbringung er mitwirkt, gehören dem
+Arbeitgeber unbekümmert darum, ob sie rechtlich zu schützen sind.
+Die Rechte an allen Arbeitsprodukten und sämtlichem Know-how, welche bzw. welches der Arbeitnehmer im
+Zusammenhang mit der Ausübung seiner dienstlichen Tätigkeit erarbeitet oder an deren/dessen Erarbeitung er
+mitgewirkt hat, stehen ausschliesslich dem Arbeitgeber zu. Soweit Arbeitsprodukte (z.B. Software, Berichte,
+Dokumentationen) urheberrechtlich geschützt sind, tritt der Arbeitnehmer dem Arbeitgeber hiermit sämtliche
+Rechte daran ab, insbesondere das Urheberrecht und sämtliche Nutzungsrechte einschliesslich der Rechte zur
+Herstellung und Vervielfältigung, zur Veröffentlichung, zum Gebrauch, zur Lizenzierung oder Veräusserung, zur
+Verbreitung über Datenträger oder Online-Medien, zur Änderung und Weiterentwicklung sowie zur Entwicklung
+neuer Produkte auf der Grundlage des Arbeitsprodukts des Arbeitnehmers oder auf der Grundlage von Teilen
+dieses Arbeitsproduktes.
+1.5 Konkurrenzverbot
+Der Arbeitnehmer verpflichtet sich während der Dauer des Arbeitsverhältnisses und während zwei Jahren nach
+dessen Beendigung keine Funktion, im direkten Zusammenhang mit den Produkten und Dienstleistungen des
+Arbeitgebers bei einem Kunden (Bank oder Vermögensverwaltung) des Arbeitgebers wahrzunehmen.
+Vorbehalten bleibt die Wahrnehmung einer Funktion im oben erwähnten Sinne bei schriftlicher Zustimmung des
+Arbeitgebers.
+2. Anstellungsverhältnis
+2.1 Arbeitsvertrag
+Mit allen Mitarbeitenden wird ein schriftlicher Arbeitsvertrag abgeschlossen. Dieser enthält mind. folgende
+Angaben:
+• Funktion- und Stellenbezeichnung
+• Beschäftigungsgrad
+• Beginn des Arbeitsverhältnisses
+• Arbeitsort
+• Lohn, Zulagen, Entschädigungen
+• Allfällige besondere Vereinbarungen
+• Probezeit
+• Kündigungsfristen
+2.2 Probezeit
+Die Probezeit dauert drei Monate. Bei einer effektiven Verkürzung der Probezeit infolge Krankheit, Unfall oder
+Erfüllung einer nicht freiwillig übernommenen gesetzlichen Pflicht erfolgt eine entsprechende Verlängerung,
+gemäss Art. 335b Abs. 3 OR. Eine solche Verlängerung wird der/dem Mitarbeitenden schriftlich mitgeteilt.
+2.3 Teilzeit
+Der Arbeitgeber ermöglicht Teilzeitarbeit bei explizitem Wunsch und sofern dies die Funktion sowie
+Arbeitssituation erlauben. Entsprechende Anträge sind vom Vorgesetzen und der GL zu bewilligen.
+2.4 HomeOffice
+Incore Technology AG ermöglicht ein externes Arbeiten (HomeOffice) im Rahmen der aktuellen Aufgaben, sofern
+sie sich dafür eignen und der Mitarbeitende genügend Erfahrung ausweist. Der Mitarbeitende kann einen
+entsprechenden Antrag stellen, welcher auch den Standort und den Zeitraum festlegt. Der Antrag ist dem/der
+Vorgesetzten einzureichen und benötigt die Bewilligung der GL. Wiederkehrendes externes Arbeiten kann bei
+einem 100 Prozent Pensum bis max. 3 Tage pro Woche bewilligt werden, so dass eine Anwesenheit von 2 Tagen
+gewährleistet ist. Zwecks «Social Interaction» wird pro Team und Monat ein Tag festgelegt, an dem alle
+Teammitglieder im Büro in Schlieren arbeiten. Der Tag wird durch die jeweilige Teamleitung in Abstimmung mit
+dem/der Bereichsleiter/in bestimmt. Ein bewilligter Antrag kann durch die GL jederzeit aufgehoben werden. Beim
+externen Arbeiten ist eine gleichbleibende Leistung hinsichtlich Qualität und Quantität zu gewährleisten. Der
+Mitarbeitende ist finanziell und logistisch für den gesicherten Internet-Anschluss, die telefonische Erreichbarkeit
+und die genützten Räumlichkeiten verantwortlich. Externes Arbeiten ist nur am bewilligten Standort zulässig. Der
+Arbeitnehmende ist verpflichtet, Informationen (auch Online) und Unterlagen mit vertraulichem Inhalt, die für die
+Erfüllung seiner Arbeitspflicht im HomeOffice benötigt werden, geheim zu halten. Sie dürfen nicht unbeaufsichtigt
+am Arbeitsplatz liegen gelassen werden oder Dritten, einschliesslich Familienmitgliedern, in irgendeiner Form
+zugänglich gemacht werden.
+2.5 Mandate und Nebenbeschäftigungen
+Der Arbeitnehmer hat das Recht eine Nebenbeschäftigung auszuüben, sofern er damit den Arbeitgeber nicht
+konkurrenziert und sich diese Tätigkeit nicht nachteilig auf den Arbeitgeber oder auf die Arbeitstätigkeit des
+Arbeitnehmers auswirkt. Er ist jedoch verpflichtet dies dem Arbeitgeber im Voraus mitzuteilen und schriftlich
+dessen Einverständnis einzuholen. Die Bestimmungen über das Konkurrenzverbot bleiben in jedem Fall
+vorbehalten.
+2.6 Auflösung/Beendigung des Arbeitsverhältnisses
+Das Anstellungsverhältnis kann während der Probezeit jederzeit beidseitig mit einer Kündigungsfrist von sieben
+Kalendertagen (Gem. Art 335b Abs. 2 OR) auf Ende der Kalenderwoche gekündigt werden. Die weiteren
+Kündigungsfristen sind gemäss Anstellungsvertrag geregelt. Nach Ablauf der Probezeit endet das
+Arbeitsverhältnis durch:
+• Ordentliche Kündigung
+• Ablauf einer befristeten Anstellung
+• Fristlose Kündigung
+• Auflösung im gegenseitigen Einvernehmen
+• Arbeitsunfähigkeit infolge Invalidität
+• Erreichen des Pensionsalters
+• Tod
+2.7 Qualifikation, Mitarbeitergespräch
+Mitarbeitende werden mindestens einmal jährlich durch ihren Vorgesetzten qualifiziert. Die einheitliche
+Qualifikation findet im vierten Quartal des Jahres oder spätestens im Januar des Folgejahres statt. Die
+Qualifikation dient als Basis für die persönliche Weiterentwicklung und hat Einfluss auf eine mögliche
+Lohnentwicklung oder gar Gewinnbeteiligung.
+2.8 Zeugnis
+Die Mitarbeitenden können jederzeit eine Arbeitsbestätigung oder ein Arbeitszeugnis verlangen. Am Ende eines
+Anstellungsverhältnisses ist Incore Technology AG verpflichtet in einem angemessenen Zeitraum ein
+Arbeitszeugnis für den Mitarbeitenden zu erstellen.
+3. Arbeitszeit
+3.1 Gleitzeit
+Incore Technology AG erlaubt seinen Mitarbeitenden sich die Arbeitszeit selbst einzuteilen. Die Arbeitszeit beträgt
+40 Stunden pro Woche. Gemäss Art. 15, ArG müssen folgende Pausen eingehalten werden:
+• eine Viertelstunde bei einer täglichen Arbeitszeit von mehr als fünfeinhalb Stunden;
+• eine halbe Stunde bei einer täglichen Arbeitszeit von mehr als sieben Stunden;
+• eine Stunde bei einer täglichen Arbeitszeit von mehr als neun Stunden.
+Eine Pause von 1/4 h pro Halbtag innerhalb der Arbeitszeit ist gestattet, weitere Aufenthalte fallen nicht unter die
+Arbeitszeit.
+Das Unter- oder Überschreiten der monatlichen Sollzeit ist zu vermeiden. Ist dies ausnahmsweise aus
+betrieblichen Gründen nicht möglich, ist der positive Gleitzeitsaldo im selben Monat oder spätestens im
+Folgemonat abzubauen. Maximal 40 Stunden lassen sich auf den nächsten Monat übertragen, die
+darüberhinausgehenden Stunden verfallen. Bei Unterschreitung der betrieblichen Sollzeit werden bis zu 40
+Minusstunden gewährt. Übersteigt die Anzahl Minusstunden diese Zahl, behält sich die GL vor, die Minusstunden
+mit dem Überstundensaldo und/oder dem Feriensaldo auszugleichen oder eine Lohnkürzung vorzunehmen. Es
+sind maximal 24 Stunden pro Kalendermonat zu kompensieren.
+3.2 Überstunden, Wochenend- und Feiertagseinsätze
+Überstunden können nur durch den Vorgesetzten und in Ausnahmefällen angeordnet werden. An Wochenenden
+und an Feiertagen wird bei angeordneten Überstunden ein Zuschlag von 50 Prozent gewährt. Für
+Sonntagsarbeiten besteht eine externe Bewilligungspflicht, welche vorgängig eingereicht werden muss.
+Entsprechend sind Arbeitseinsätze an Sonntagen und Feiertagen möglichst zu vermeiden.
+Grundsätzlich sind geleistete Überstunden spätestens im Folgemonat zu kompensieren. Kann die angeordnete
+Überzeit innerhalb eines Monates nicht mit Gleitzeit kompensiert werden, sind diese zu einem späteren Zeitpunkt
+zu kompensieren. Ein allfälliger negativer Gleitzeitsaldo ist am Jahresende mit vorhandenen Überstunden
+auszugleichen. Es sind maximal 24 Stunden pro Kalendermonat zu kompensieren.
+3.3 Nachtarbeit
+Bei angeordneter Nachtarbeit zwischen 22:00 und 06:00 Uhr wird ein Zuschlag von 25 Prozent vergütet. Diese
+Zeit wird um 25 Prozent erhöht rapportiert. Eine Kumulation des Zuschlages mit Überstunden ist nicht gestattet.
+Es kommt dabei der höhere Ansatz zur Anwendung.
+3.4 Arbeitsrapporte
+Alle geleisteten Arbeitsstunden sind täglich zu rapportieren und im Stundenabrechnungssystem unter dem
+jeweiligen Monat zu erfassen. Bis spätestens am dritten Arbeitstag des neuen Monats ist der Stundenrapport zu
+kontrollieren und zu erfassen. Die spezielle Weisung betreffend Stundenprojekten ist zu beachten. Die
+ausgewerteten Stundenrapporte werden den Mitarbeitenden monatlich (jeweils vom Vormonat) mitgeteilt. Erfolgt
+keine Korrektur, dann sind die rapportierten Stunden definitiv.
+4. Pikett
+4.1 Pikettdienst
+Pikettdienst bedeutet, dass sich Mitarbeitende ausserhalb der üblichen Geschäftszeiten der Incore Technology
+AG von Montag – Freitag von 07:30 – 18:00 Uhr für einen Arbeitseinsatz bereithalten (Pikettbereitschaft) und im
+Bedarfsfall die erforderliche Arbeit unverzüglich aufnehmen (Piketteinsatz). Folgende Pikettbegriffe wurden weiter
+definiert:
+Begriff Erklärung
+Pikettdienst Überbegriff für Pikettbereitschaft und Piketteinsatz
+Pikettbereitschaft reine Bereitschaftszeit, ohne Arbeit
+Piketteinsatz Arbeitseinsatz bedingt durch Aufgebot während der Pikettbereitschaft
+Noteinsatz Arbeitseinsatz infolge Aufgebots durch Pikettdienstleistenden, d.h.
+ohne selber für Pikettbereitschaft eingeteilt zu sein
+4.2 Einsatzplanung
+Aufgrund betrieblicher Bedürfnisse können Mitarbeitende von deren Vorgesetzten zum Pikettdienst eingeteilt
+werden. Die betroffenen Mitarbeitenden werden frühzeitig in die Einsatzplanung mit einbezogen, in der Regel
+spätestens zwei Wochen vor dem geplanten Einsatz.
+Gemäss arbeitsrechtlichen Bestimmungen dürfen Mitarbeitende im Zeitraum von vier Wochen an höchstens
+sieben Tagen zum Pikettdienst aufgeboten werden. Nach Beendigung des letzten Pikettdienstes darf der
+Mitarbeitende während den zwei darauffolgenden Wochen nicht mehr zum Pikettdienst aufgeboten werden.
+Ausnahmsweise kann ein Mitarbeiter im Zeitraum von vier Wochen an höchstens 14 Tagen zum Pikettdienst
+Personalreglement I 28.10.2024 8/15
+aufgeboten werden, sofern aufgrund von Personalmangel zu wenig Mitarbeitende für einen Pikettdienst zur
+Verfügung stehen und die Anzahl der tatsächlichen Piketteinsätze im Durchschnitt eines Kalenderjahres nicht
+mehr als fünf Einsätze pro Monat ausmacht.
+4.3 Einsatzbereitschaft
+Die Pikettleistenden müssen vor dem Pikettdienst sicherstellen, dass er im Einsatzfall auf die benötigten
+Systeme zugreifen kann und innerhalb der folgenden Zeiten reagieren kann:
+• Jederzeit telefonisch erreichbar sein (Reaktionszeit gemäss SLA von 15 Minuten)
+• Einsatzbereit (arbeitsfähig) innerhalb einer Stunde
+− Systemzugriff via Citrix oder
+− Arbeitsaufnahme am Arbeitsplatz
+4.4 Entschädigung der geleisteten Zeit
+Für die Dauer der Pikettbereitschaft sind 25 Prozent der Zeit der vereinbarten Pikettdauer als Überstunden zu
+erfassen (z.B. Pikettbereitschaft von 18:00 – 22:00 = 4 Std *25 Prozent = 1 Std Überzeit).
+Ist im Rahmen des Pikettdienstes ein Piketteinsatz oder ein Noteinsatz erforderlich wird anstelle der Pikettzeit die
+effektive geleistete Arbeitszeit als Überstunden erfasst. Bei Nacht-, Wochenend- und Feiertagseinsätzen gelten
+die unter Arbeitszeit festgelegten Zuschläge.
+Diese Überstunden können kompensiert oder nach Abstimmung mit der Geschäftsleitung ausbezahlt werden. Die
+Kompensation hat grundsätzlich im gleichen Kalenderjahr zu erfolgen.
+5. Ferien
+5.1 Feriendauer
+Bei vollem Pensum beträgt der Ferienanspruch 25 Arbeitstage pro Kalenderjahr. Bei reduzierten Pensen oder bei
+Teilarbeitszeiten reduziert sich der Anspruch anteilsmassig. Bei Ein- oder Austritten innerhalb eines
+Kalenderjahres wird pro anrechenbaren Monat 1/12 des Ferienanspruches gewahrt. Bei vorzeitigem Austritt
+werden zu viel bezogene Ferien vom Salär abgezogen.
+5.2 Feiertage
+Als bezahlte Feiertage gelten:
+• Neujahr
+• 2. Januar
+• Karfreitag
+• Ostermontag
+• 1. Mai
+• Auffahrtstag
+• Pfingstmontag
+• 1. August
+• Weihnachten
+• Stephanstag
+Fallen diese Feiertage ohnehin auf einen arbeitsfreien Tag, gelten sie als gewahrt. Bei Krankheit oder Unfall
+können diese nicht nachbezogen werden.
+Personalreglement I 28.10.2024 9/15
+5.3 Bezahlter Urlaub
+Bei den folgenden Ereignissen wird ein bezahlter Urlaub gewahrt:
+Eigene Heirat 3 Tage
+Heirat von Geschwistern, Kindern oder Elternteil 1 Tag
+Vaterschaftsurlaub 2 Wochen
+Mutterschaftsurlaub 14 Wochen
+Todesfall von Lebenspartnern, Kindern oder Eltern 3 Tage
+Todesfall von Schwiegereltern, Grosseltern oder Geschwister 2 Tage
+Todesfall von entfernten Verwandten und nahen Bekannten Bis zu 1 Tag
+Wohnungswechsel bei eigenem Haushalt 1 Tag
+Militärische Pflichten gem. Aufgebot
+Eidgenössische Prüfungen gem. Aufgebot
+Kurze Betreuungsabwesenheit 3 Tage pro Fall, nicht mehr als 10
+Tage pro Jahr
+Ferien können generell von der GL angeordnet werden. Ferienwünsche des Arbeitnehmers sind frühzeitig zu
+melden und bedürfen der ausdrücklichen Bewilligung des Vorgesetzten. Das gleiche gilt für militärische und
+andere Absenzen die durch den Vorgesetzten zu koordinieren sind. Sind die Ferien oder Absenzen genehmigt,
+müssen sie umgehend gemäss Prozess in den Company Basics, eingetragen werden.
+Weitere Absenzen, wie die Erledigung gesetzlicher Pflichten und Absenzen, die den Arbeitnehmer unverschuldet
+an der Arbeitsleistung hindern und in der Person des Arbeitnehmers liegen, sind von der GL zu genehmigen und
+mit dem Vorgesetzten abzusprechen.
+5.4 Kurzabsenzen
+Kurzabsenzen, zur Erledigung dringender persönlicher Angelegenheiten (Arztbesuch, Zahnarztbesuch,
+Behördengänge etc.) sind, wenn möglich im Rahmen der Gleitzeit in die Randzeiten zu legen. Ist dies nicht
+möglich, werden sie anteilmassig zu der täglichen Sollzeit vergütet. Es kann an diesen Tagen allerdings keine
+Gleitzeitüberzeit generiert werden.
+Die GL behält sich ausdrücklich vor, sich die "Dringlichkeit" der zu erledigenden, persönlichen Angelegenheiten,
+die nicht ausserhalb der Blockzeiten erledigt werden können, vom behandelnden Arzt oder der zuständigen
+Behörde bestätigen zu lassen.
+Kurzabsenzen bedürfen immer der vorherigen Bewilligung durch den Vorgesetzten und sind gemäss Company
+Basics einzutragen.
+5.5 Militär- und Zivilschutzdienst
+Eine Dienstleistung ist sofort nach Bekanntmachung des Schultableaus oder bei späteren Aufgeboten nach
+Empfang desselben dem Arbeitgeber mitzuteilen.
+Nach einer militärischen Abwesenheit ist die EO Karte unaufgefordert der, fürs Personalwesen verantwortliche
+Person abzugeben. Die Leistungen aus Erwerbsersatzordnung fallen dem Arbeitgeber zu.
+Personalreglement I 28.10.2024 10/15
+5.6 Vaterschaftsurlaub
+Erwerbstätige Väter haben ab dem 1.1.2021 Anspruch auf einen zweiwöchigen Vaterschaftsurlaub gemäss Art.
+329g OR. Der Urlaub kann am Stück (inkl. Wochenende) oder tageweise bezogen werden. Das Wochenende
+wird beim Vaterschaftsurlaub - wie auch beim Mutterschaftsurlaub - mitentschädigt. Aus diesem Grund erhält der
+Vater 14 Taggelder ausbezahlt und hat insgesamt 10 arbeitsfreie Tage zugute. Der Vaterschaftsurlaub muss
+innerhalb von sechs Monaten ab der Geburt bezogen werden. Der Vaterschaftsurlaub wird zusätzlich zu den
+Ferien gewährt. Somit darf der Arbeitgeber die Ferien nicht kürzen. Ausserdem wird die Kündigungsfrist
+verlängert, wenn der Arbeitgeber das Arbeitsverhältnis kündigt und der Vater noch nicht den gesamten
+Vaterschaftsurlaub bezogen hat. Nur eine arbeitgeberseitige Kündigung führt zu einer Verlängerung der
+Kündigungsfrist. Es gibt keine Verlängerung während einer Kündigung in der Probezeit. Die Verlängerung
+entspricht der Anzahl verbleibender Urlaubstage (keine Verlängerung bis zum nächsten Endtermin).
+Der Bezüger der Vaterschaftsentschädigung muss der rechtliche Vater des Kindes sein. Das Kindesverhältnis
+entsteht durch Eheschliessung mit der Mutter, durch Vaterschaftsanerkennung oder durch ein Gerichtsurteil. Bei
+Adoption besteht kein Anspruch auf Vaterschaftsentschädigung. Eine Entschädigung erhalten Väter, die zum
+Zeitpunkt der Geburt des Kindes erwerbstätig waren. Ebenfalls Anspruch auf die Vaterschaftsentschädigung
+haben Väter, die aufgrund von Arbeitslosigkeit, Krankheit, Unfall oder Invalidität arbeitsunfähig sind und
+entsprechende Taggelder beziehen. Der Vater muss in den neun Monaten unmittelbar vor Geburt des Kindes
+obligatorisch bei der AHV versichert gewesen sein und in dieser Zeit während mindestens fünf Monaten eine
+Erwerbstätigkeit ausgeübt haben.
+Wie beim Mutterschaftsurlaub beträgt die Entschädigung 80 Prozent des durchschnittlichen Erwerbseinkommens
+vor der Geburt des Kindes.
+5.7 Schwangerschaft
+Mitarbeiterinnen, die vor der Niederkunft im Dienst der Firma standen, haben bei Schwangerschaft und
+Niederkunft Anspruch auf bezahlten Urlaub von 98 Tage (14 Wochen) gemäss Art. 329f OR.
+Während des Mutterschaftsurlaubes hat die Arbeitnehmerin Anspruch auf 80 Prozent des Lohnes in Form von
+Taggeldern (Art. 16e EOG). Damit die Frau diese Zahlungen erhält, muss sie:
+während der 9 Monate vor der Niederkunft bei der AHV versichert sein (6 Monate im Falle der Niederkunft vor
+dem 7. Monat der Schwangerschaft, 7 Monate bei der Niederkunft vor dem 8. Monat der Schwangerschaft und 8
+Monate im Falle der Niederkunft vor dem 9. Monat der Schwangerschaft) und mindestens 5 Monate in der
+Zeitspanne vor der Niederkunft gearbeitet haben.
+Zur Ermittlung der Mindestversicherungsdauer müssen die in einem EU/ EFTA-Staat zurückgelegten
+Versicherungs- und Beschäftigungszeiten angerechnet werden (Art. 26 und 28 EOV).
+Wenn eine Arbeitnehmerin die Voraussetzungen der Mutterschaftsversicherung nicht erfüllt, folgt die
+Lohnfortzahlung den gleichen Regeln wie bei der unverschuldeten Arbeitsverhinderung (s. S. 12 ff.)
+Wird die Arbeit nach der Niederkunft (Geburtstermin) nicht mehr aufgenommen, so ist die jeweilige
+Kündigungsfrist (16 Wochen nach Niederkunft, Art. 336c Abs. 1 Bst. c OR) einzuhalten. Das Dienstverhältnis ist
+auf den (errechneten) Niederkunftstermin hin aufzulösen. Bei Kündigung des Arbeitsverhältnisses nach dem
+Mutterschaftsurlaub sind die entsprechenden Kündigungsfristen einzuhalten. Krankheit und Unfall verlängern den
+Mutterschaftsurlaub nicht.
+Dauert eine krankheits- oder unfallbedingte Arbeitsunfähigkeit länger als der Mutterschaftsurlaub, so wird die
+Arbeitsunfähigkeit analog der Arbeitsverhinderung behandelt.
+Personalreglement I 28.10.2024 11/15
+5.8 Kurze Betreuungsabwesenheit
+Am 01.01.2021 wurde der bezahlte Urlaub eingeführt, damit Arbeitnehmer kranke oder verunfallte
+Familienmitglieder oder Lebenspartner/innen betreuen können siehe Art. 329h OR.
+Der Urlaub beträgt höchstens drei Tage pro Fall und nicht mehr als zehn Tage pro Jahr.
+5.9 Kürzung des Ferienanspruchs
+Bei Absenzen infolge Militär- und Zivilschutzdienste (über die normale WK Dauer) oder Krankheit und Unfall bis
+zur Gesamtdauer von einem Monat pro Jahr erfolgt keine Kürzung der Ferien. Übersteigt die Gesamtdauer je
+einen Monat, dann werden die Ferien für jeden weiteren Absenzmonat um 1/12 des Anspruchs gekürzt.
+Bei Schwangerschaftsurlaub wird der Ferienanspruch nicht gekürzt. Bei Arbeitsunfähigkeit infolge
+Schwangerschaftsbeschwerden wird der Lohn gegen das Vorweisen eines Arztzeugnisses ausgerichtet. Das
+Arztzeugnis muss die Arbeitsunfähigkeit explizit als Folge von Schwangerschaftsbeschwerden qualifizieren.
+5.10 Ferienbezug
+Ferien sind im anfallenden Arbeitsjahr zu beziehen. Am Ende des Arbeitsjahres werden die bezogenen Ferien mit
+dem Ferienanspruch verglichen. Nicht bezogene Ferientage müssen bis spätestens Ende April des folgenden
+Jahres bezogen werden. Bei nicht Einhaltung dieser Weisung behält sich die GL ausdrücklich vor, im Rahmen
+der Fürsorgepflicht Ferien anzuordnen. Für längere Abwesenheiten können vorgängig spezielle Abmachungen
+getroffen werden. Zuviel bezogene Ferientage werden, wenn möglich, mit den Überstunden kompensiert,
+ansonsten kann die GL eine Lohnkürzung vornehmen.
+5.11 Krankheit, Unfall
+Unvorhergesehene Abwesenheiten (Krankheit und Unfall), sind bis um 8.00 Uhr an den direkten Vorgesetzten
+per Telefon zu melden. Die darauffolgenden Krankheits- oder Unfalltage sind ebenfalls einzeln abzumelden,
+ausser man kann sich mit Sicherheit für mehrere Tage im Voraus abmelden. Falls eine solche Absenz 3
+Kalendertage überschreitet, ist unaufgefordert ein ärztliches Zeugnis zu bringen. Die GL behält es sich
+ausdrücklich vor, ab dem 1. Tag ein ärztliches Zeugnis zu verlangen.
+Falls ein Mitarbeitender in den Ferien erkrankt oder verunfallt, ist bei Wiederantritt der Arbeit ein ärztliches
+Zeugnis über die Erkrankung oder den Unfall in den Ferien ab dem 1. Tag beizubringen. Ansonsten besteht kein
+Nachbezugsrecht der Ferien.
+Bei berechtigten Zweifeln über ein Arztzeugnis oder bei starker Anhäufung von Krankheitsabsenzen behält sich
+die GL vor, den Mitarbeitenden zu einem von Incore Technology AG bestimmten Vertrauensarzt zu schicken. Die
+Kosten dieser Untersuchung werden vom Arbeitgeber übernommen.
+6. Salär / Versicherungen / Vergünstigungen
+6.1 Salär
+Das vertraglich vereinbarte Jahressalär wird dem Mitarbeitenden zusammen mit einer schriftlichen Abrechnung in
+12 oder 13 Raten am 24. Tag jeden Monats ausbezahlt. Es gelten die Vereinbarungen im Arbeitsvertrag. Fällt der
+24. Tag des Monats auf ein Wochenende, wird der Lohn am letzten Arbeitstag vor dem 24. Tag des Monats
+ausbezahlt.
+6.2 AHV / IV / EO / ALV
+Vom jeweils gültigen Bruttolohn werden die gesetzlichen Abzüge für AHV / IV / EO und ALV in Abzug gebracht.
+Gesetzliche Änderungen der Ansätze kommen zum Zeitpunkt des Inkrafttretens zur Anwendung.
+Personalreglement I 28.10.2024 12/15
+6.3 Pensionskasse
+Jeder Mitarbeitende ist mit seinem Jahreslohn inklusive Koordinationsabzug versichert. Die gesamten Beiträge
+werden jeweils zur Hälfte durch den Arbeitnehmer und Arbeitgeber finanziert. Die Verwaltungskosten werden
+durch den Arbeitgeber übernommen.
+Die Pensionskasse wird mit dem separaten Vorsorgereglement der AXA Winterthur im Einzelnen geregelt.
+6.4 Betriebs- und Nichtbetriebsunfall Versicherung
+Der Mitarbeitende ist sowohl gegen Betriebs- als auch gegen Nichtbetriebsunfälle versichert. Die Prämie trägt
+der Arbeitgeber. Zusätzlich hat Incore Technology AG eine Unfallzusatzversicherung (UVGZ) abgeschlossen. Ein
+Reglement der aktuellen Unfallversicherung kann bei der verantwortlichen Person für das Personalwesen
+verlangt werden.
+6.5 Versicherung bei Krankheit
+Bei Arbeitsunfähigkeit infolge Krankheit besteht während zweier Monate ein Anspruch auf die volle
+Lohnfortzahlung. Nach dieser Zeit wird 80 Prozent des versicherten Jahreslohns ausbezahlt. Die maximale
+Dauer der Taggelder beträgt 730 Tage.
+6.6 Versicherung bei Unfall
+Bei Arbeitsunfähigkeit infolge Unfalls besteht während zweier Monate ein Anspruch auf die volle Lohnfortzahlung.
+Nach dieser Zeit wird 80 Prozent des versicherten Jahreslohns ausbezahlt.
+6.7 Militärdienst
+Bei Verhinderung durch obligatorischen schweizerischen Militärdienst wird innerhalb einer Periode von 52
+Wochen für die Dauer eines Wiederholungskurses, unter Anrechnung des Lohnausgleiches, das normale Gehalt
+ausbezahlt.
+6.8 Dienstaltersgeschenk
+Fest angestellte Mitarbeitende in ungekündigtem Arbeitsverhältnis erhalten folgende einmalige Treueprämien:
+Nach Vollendung von 5 Dienstjahren 5 Tage Ferien oder ¼ des Monatslohns
+Nach Vollendung von 10 Dienstjahren 10 Tage Ferien oder ½ des Monatslohns
+Nach Vollendung von 15 Dienstjahren 5 Tage Ferien oder ¼ des Monatslohns
+Nach Vollendung von 20 Dienstjahren 20 Tage Ferien oder 1 Monatslohn
+Nach Vollendung von 25 Dienstjahren 5 Tage Ferien oder ¼ des Monatslohns
+Nach Vollendung von 30 Dienstjahren 20 Tage Ferien oder 1 Monatslohn
+Bei einer Auszahlung der Treueprämie gilt das durchschnittliche Arbeitspensum der entsprechenden Periode.
+6.9 Gewinnbeteiligung
+Bei einem positiven Unternehmenserfolg kann der Verwaltungsrat die Auszahlung einer Gewinnbeteiligung
+beschliessen. Die Höhe richtet sich nach dem Unternehmenserfolg und den Leistungen des einzelnen
+Mitarbeitenden. Eine allfällige Gewinnbeteiligung wird nach abgeschlossenem Geschäftsjahr und nach der
+Qualifikation des Mitarbeitenden im März ausbezahlt. Von den Gewinnbeteiligungen werden dem Mitarbeitenden
+seine Beiträge für die gesetzlich vorgeschriebenen Sozialversicherungen abgezogen. Auch wenn über mehrere
+aufeinanderfolgenden Jahre eine Gewinnbeteiligung ausgerichtet worden ist, wird dadurch kein Anspruch auf
+Personalreglement I 28.10.2024 13/15
+künftige Zahlungen begründet. Eine allfällige Gewinnbeteiligung wird nur dann bezahlt, wenn zum Zeitpunkt der
+Entscheidung das Arbeitsverhältnis des Mitarbeitenden ungekündigt ist.
+6.10 Personalvermittlung
+Führt eine Vermittlung zur Anstellung eines neuen Mitarbeitenden und wird das Anstellungsverhältnis nach
+beendeter Probezeit weitergeführt, wird eine Prämie für die Personalvermittlung ausbezahlt:
+• Personalvermittlungsprämie pro Mitarbeiter CHF 5'000.00
+Diese Prämien sind allerdings steuerpflichtig. Sie unterliegen der AHV/ALV und erscheinen im Lohnausweis.
+6.11 Weiterbildung
+Incore Technology AG unterstützt berufsbegleitende Weiterbildungen im Rahmen der aktuellen und künftigen
+Aufgaben, sofern die gewünschten Kurs- / Schulbesuche von dem entsprechenden Vorgesetzten und der GL
+bewilligt sind.
+Die Kostenbeteiligung und allfällige Verpflichtungen werden individuell festgelegt.
+6.12 Parkplatzregelung
+Details sind im separatem Parkplatz-Reglement abgebildet.
+6.13 Provisionen, Geschenke
+Dem Arbeitnehmer ist es untersagt, Provisionen oder sonstige Begünstigungen von Unternehmern oder
+Lieferanten zu verlangen oder anzunehmen. Davon ausgenommen sind kleinere Gaben von geringem Wert. Im
+Zweifelsfall entscheidet die GL.
+7. Arbeitsplatz
+7.1 Eingangstüre
+Die Eingangstüren zu den Büroräumlichkeiten der Incore Technology AG müssen aus Datenschutzmassnahmen
+immer geschlossen sein. Die Personen, welche Zutritt zu den Büroräumlichkeiten der Incore Technology AG
+erhalten, haben einen Schlüssel mit integriertem Badge. Der Badgeleser ist rechts an der Wand neben der
+Eingangstür angebracht.
+7.2 Küche & Cafeteria
+In der Cafeteria stehen den Mitarbeitenden eine Kaffeemaschine sowie ein Wasserspender zur Verfügung.
+Die Küche & Cafeteria ist stets sauber zu halten und eigenes dreckiges Geschirr ist immer in die Geschirrspül-
+Körbe zu räumen. Bei verbrauchten Waren wie Kaffee, Zucker, Milch oder Tee, ist die Administration zu
+informieren.
+7.3 Clean Desk Policy
+Damit keine kritischen Daten unbeabsichtigt von Dritten eingesehen werden können gilt bei Incore Technology
+AG eine strikte Clean Desk Policy. Kritische Informationen dürfen nicht unbeaufsichtigt auf dem Arbeitsplatz
+liegengelassen werden. Diese müssen, spätestens wenn der Arbeitsplatz verlassen wird eingeschlossen werden.
+Beim Verlassen des Büros ist die Workstation (PC, Thinclient) zu sperren. Bei den Mitarbeitern mit einem Modell,
+welches auf der Seite schwarz ist wird dies mittels Ctrl + F1 gemacht, bei den Modellen, welche auf der Seite
+silbrig sind mittels Ctrl, Alt, Delete. Alle Schlüssel sind sicher im persönlichen Gewahrsam aufzubewahren.
+Zwischenmaterial wie Entwürfe, Notizen, Skizzen, elektronische Informationsträger jeglicher Art usw. sind nicht in
+Personalreglement I 28.10.2024 14/15
+den Papierkorb zu werfen, sondern sind sachgemäss zu vernichten. Der Arbeitsplatz, inkl. genutzte
+Sitzungsräume sind nach erfolgter Arbeit aufzuräumen und sauber zu hinterlassen.
+7.4 Arbeitsmaterial
+Büromaterial wird von der Administration bestellt und verwaltet. Wenn ein letzter Gegenstand entfernt wird aus
+dem Büromaterial-Vorrat ist die Administration zu informieren.
+Sämtliche Unterlagen wie Laptops, Mobiltelefone, Programme, Programmbeschreibungen, Manuals, Bücher etc.
+bleiben Eigentum des Arbeitgebers. Der Arbeitnehmer ist verpflichtet, bei Auflösung des Vertrags spätestens auf
+den Zeitpunkt der Beendigung des Arbeitsverhältnisses sämtliche den Arbeitgeber betreffenden Arbeitsprodukte
+sowie die übrigen Unterlagen, unbekümmert der Form ihrer Materialisierung (einschliesslich Computerdateien,
+Quellcodes und Dokumentationen), unaufgefordert zurückzugeben. Die Erstellung von Abschriften oder Kopien
+von solchen Arbeitsprodukten und Unterlagen für private und andere Zwecke ist untersagt.
+7.5 Telefonie
+Jedem Mitarbeiter steht ein Festnetzanschluss mit einer Direktwahl-Nummer zur Verfügung. Einzelne Mitarbeiter
+verfügen zudem über ein geschäftliches Mobiltelefon, welches Incore Technology AG bezahlt. Private
+Telefonkosten, welche über das entsprechende Abonnement hinausgehen, werden dem Mitarbeiter nach
+Rucksprache belastet. Private Gespräche während der Arbeitszeit sind auf ein Minimum zu beschränken.
+7.6 Internet sowie E-Mail
+Der Zugang zum Internet dient dem Austausch von elektronischen Mails und der Informationsbeschaffung im
+Zusammenhang mit der Arbeit bei Incore Technology AG. Die private Nutzung des Internets oder E-Mails
+während der Arbeitszeit haben sich auf ein Minimum zu beschränken. Weder die Arbeitsleistung, noch die
+technische Infrastruktur dürfen durch die private Nutzung des Internets beeinträchtigt werden.
+Es ist untersagt, für Incore Technology AG schädliche Äusserungen oder abschätzige Bemerkungen über die
+Konkurrenz in News Foren abzulegen. Generell verweisen wir hier ebenfalls auf das Geschäftsgeheimnis und
+den Anstellungsvertrag.
+Ebenfalls ist es untersagt, nicht betriebsnotwendige Software vom Internet herunterzuladen und auf dem Incore
+Technology AG-PC zu installieren. Ausnahmen von dieser Regel sind mit dem Vorgesetzten abzusprechen.
+7.7 Unterhaltungselektronik
+Das Abspielen von Musik, Radio- oder Fernsehprogrammen ist am Arbeitsplatz nicht gestattet. Dezentes Musikund
+Radiohören über Kopfhörer ist gestattet. Dies gilt auch für im Computer integrierte Teile.
+7.8 Rauchen, Alkohol, Drogen
+Die persönliche Lagerung von Alkohol und Drogen und deren Genuss in den Räumen von Incore Technology AG
+ist nicht gestattet. Das Rauchen ist in allen Räumen verboten, inklusive Cafeteria und Gänge.
+7.9 Tiere
+Das Mitbringen von Haustieren an den Arbeitsplatz ist nicht gestattet.
+Personalreglement I 28.10.2024 15/15
+8. Inkrafttreten
+Das vorliegende Reglement tritt per 28.10.2024 in Kraft.
+INCORE TECHNOLOGY AG Solutions AG
+Die Geschäftsleitung
